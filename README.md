@@ -1,0 +1,1 @@
+O código implementa o Módulo de Inicialização para um simulador de jogo de estratégia inspirado em War. O objetivo principal deste componente é gerenciar o fluxo de entrada de dados dos territórios que compõem o tabuleiro virtual, garantindo a integridade das informações antes do início das rodadas de combate.
